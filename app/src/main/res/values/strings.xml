@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimonDice</string>
+    <string name="start">START</string>
+    <string name="boton1"></string>
+    <string name="boton2"></string>
+    <string name="boton3"></string>
+    <string name="boton4"></string>
+</resources>
